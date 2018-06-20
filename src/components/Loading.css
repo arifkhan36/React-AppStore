@@ -6,6 +6,10 @@
     -webkit-transform: rotateZ(45deg);
             transform: rotateZ(45deg);
   }
+
+  h1 {
+      color: white;
+  }
   
   .sk-folding-cube .sk-cube {
     float: left;
