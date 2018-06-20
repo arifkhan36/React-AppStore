@@ -1,0 +1,62 @@
+[
+    { "id":0,
+    "animation": "card",
+    "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+
+      },
+      { "id":1,
+        "animation": "card",
+        "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+    
+          },
+          { "id":2,
+            "animation": "card",
+            "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+        
+              },
+              { "id":3,
+                "animation": "card",
+                "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+            
+                  },
+                  { "id":4,
+                    "animation": "card",
+                    "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                
+                      },
+                      { "id":5,
+                        "animation": "card",
+                        "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                    
+                          },
+                          { "id":6,
+                            "animation": "card",
+                            "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                        
+                              },{ "id":7,
+                                "animation": "card",
+                                "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                            
+                                  },
+                                  { "id":8,
+                                    "animation": "card",
+                                    "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                                
+                                      },
+                                      { "id":9,
+                                        "animation": "card",
+                                        "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                                    
+                                          },
+                                          { "id":10,
+                                            "animation": "card",
+                                            "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                                        
+                                              },
+                                              { "id":11,
+                                                "animation": "card",
+                                                "description": "Pure components are the simplest and fastest components which can be written. They can replace any component which only has a render(). These components enhance the simplicity of the code and performance of the application."
+                                            
+                                                  }
+
+    ]
